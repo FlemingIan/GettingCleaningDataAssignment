@@ -12,6 +12,7 @@ Variables
 activity: the activity performed by the participants
 
 All other variables represent either the mean of the mean (mean - e.g. mean_of_tGravityAcc.meanY) or of the standard deviation(std - e.g. mean_of_tBodyAcc.stdZ) of one of the following measurements:
+
 tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
